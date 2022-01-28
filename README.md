@@ -1,5 +1,5 @@
 
-DNS-Info es un simple script que permite escanear un dominio y detectar los tipos de registros DNS existentes.
+DNS-Info es un simple script que permite escanear dominios y detectar los tipos de registros DNS existentes.
 
 ![dns_info](https://user-images.githubusercontent.com/75953873/151618115-4ebc999f-2d61-4a27-8caa-d6948267576f.png)
 

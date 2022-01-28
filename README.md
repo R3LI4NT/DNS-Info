@@ -27,5 +27,5 @@ DNS-Info es un simple script que permite escanear dominios y detectar los tipos 
 ```
 • git clone https://github.com/R3LI4NT/DNS-Info
 • cd DNS-Info
-• python3 DNS-Info
+• python3 dns_info.py
 ```

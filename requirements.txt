@@ -1,0 +1,4 @@
+requests
+python-time
+dnspython
+bs4

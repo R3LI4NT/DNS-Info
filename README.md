@@ -22,7 +22,7 @@ DNS-Info es un simple script que permite escanear dominios y detectar los tipos 
 ![screenshot_4 png](https://user-images.githubusercontent.com/75953873/151618513-a2e1d0f4-af99-4e21-bbfc-7569dc49fd5a.png)
 
 
-## Instalación / Installation **`Debian`**
+## Instalación / Installation
 
 ```
 • git clone https://github.com/R3LI4NT/DNS-Info

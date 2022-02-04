@@ -5,7 +5,7 @@ DNS-Info es un simple script que permite escanear dominios y detectar los tipos 
 ![dns_info](https://user-images.githubusercontent.com/75953873/151618115-4ebc999f-2d61-4a27-8caa-d6948267576f.png)
 
 
-## 📷 SCREENSHOTS 📷
+## 📷 SCREENSHOTS
 
 ### Consultas:
 ![screenshot_1](https://user-images.githubusercontent.com/75953873/151618294-ddbb6242-6f7a-4fcc-8cf9-413993685861.png)
